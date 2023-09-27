@@ -14,6 +14,7 @@ h5 {
 .series {
   background-color: rgba(255, 238, 0, 0.096);
   height: 40px;
+  border-top: rgba(219, 219, 13, 0.548) solid 1.5px;
 }
 .main-content {
   width: 60%;
