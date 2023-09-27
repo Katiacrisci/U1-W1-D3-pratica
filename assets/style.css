@@ -1,0 +1,68 @@
+h5 {
+  margin-top: 0;
+  text-align: center;
+  color: rgb(7, 143, 97);
+  line-height: 40px;
+}
+.logo {
+  margin-top: 0;
+  height: 40px;
+}
+.top-logo {
+  text-align: center;
+}
+.series {
+  background-color: rgba(255, 238, 0, 0.096);
+  height: 40px;
+}
+.main-content {
+  width: 60%;
+  height: 100vh;
+  margin: auto;
+}
+h1 {
+    text-align: center;
+    margin-top: 3rem;
+    font-weight: bolder;
+}
+p {
+    font-weight: bold;
+}
+.food {
+    width: 100%;
+    border-radius: 3%;
+    box-shadow:  0 6px 6px -4px #00000052;
+}
+.credit {
+    color: rgb(185, 175, 175);
+    text-align: center;
+}
+.featured{
+    border-left: 3px rgb(240, 240, 52) solid;
+    padding-left: 15px;
+
+}
+.featured span {
+    color: rgb(219, 83, 83);
+    font-weight: bold;
+
+}
+a {
+    color: rgb(9, 153, 153);
+}
+h2 {
+    margin-top: 3rem;
+}
+hr {
+    border-top: 1px solid aqua;
+}
+ul li {
+    margin-bottom: 14px;
+}
+ol li {
+    font-size: large;
+    font-weight: bold;
+}
+ol p {
+    font-weight: 200;
+}
